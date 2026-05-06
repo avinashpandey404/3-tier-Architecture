@@ -3,7 +3,7 @@
 > A production-style, end-to-end cloud application built on AWS using Free Tier resources.  
 > **Frontend:** S3 + CloudFront &nbsp;|&nbsp; **Backend:** EC2 + Flask &nbsp;|&nbsp; **Database:** RDS MySQL
 
----
+----
 
 ## 📸 Screenshots
 
@@ -14,6 +14,7 @@
 | `screenshots/frontend.png` | `screenshots/api.png` | `screenshots/cloudwatch.png` |
 
 ---
+![3-Tier Architecture](https://raw.githubusercontent.com/avinashpandey404/3-tier-Architecture/main/3-tier%20Architecture.png)
 
 ## 🏗️ Architecture Overview
 
